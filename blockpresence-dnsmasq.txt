@@ -1,0 +1,14 @@
+address=/ecsv2.roblox.com/0.0.0.0
+address=/ncs.roblox.com/0.0.0.0
+address=/client-telemetry.roblox.com/0.0.0.0
+address=/presence.roblox.com/0.0.0.0
+address=/dfw2-128-116-95-3.roblox.com/0.0.0.0
+address=/ams2-128-116-21-3.roblox.com/0.0.0.0
+address=/atl1-128-116-99-3.roblox.com/0.0.0.0
+address=/lax2-128-116-116-3.roblox.com/0.0.0.0
+address=/nrt1-128-116-120-3.roblox.com/0.0.0.0
+address=/gold.roblox.com/0.0.0.0
+address=/ord2-128-116-101-3.roblox.com/0.0.0.0
+address=/lms.roblox.com/0.0.0.0
+address=/metrics.roblox.com/0.0.0.0
+address=/tracing.roblox.com/0.0.0.0
