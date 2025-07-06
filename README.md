@@ -1,6 +1,9 @@
 ## ⛔ Block Roblox from tracking you
 Don’t like companies tracking you? Do you or someone in your household play Roblox? Stop Roblox from tracking you or them!
 
+> **Find this helpful?**
+> Give it a star on Github. ⭐
+
 ### Presence Blocked 
 Presence tells people if you are online.
 | File Name | Compatible With |
@@ -17,3 +20,5 @@ Presence tells people if you are online.
 | [dnsmasq.txt](https://raw.githubusercontent.com/boopup/roblox-tracking-block/main/dnsmasq.txt) | dnsmasq, OpenWRT, router firmware |
 | [adguard.txt](https://raw.githubusercontent.com/boopup/roblox-tracking-block/main/adguard.txt) | AdGuard, uBlock Origin |
 | [adblock-plus.txt](https://raw.githubusercontent.com/boopup/roblox-tracking-block/main/adblock-plus.txt) | AdBlock Plus, AdGuard Browser Extension |
+
+Credit for these links/URLs goes to Russian_TacoX [Roblox Devforum post: https://devforum.roblox.com/t/list-of-roblox-trackingtelemetry-domains/2816710]
